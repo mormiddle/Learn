@@ -1,0 +1,9 @@
+# 忽略.vscode文件夹
+.vscode
+
+# 忽略EXE文件夹
+EXE
+
+# 忽略.vs文件夹
+.vs
+
